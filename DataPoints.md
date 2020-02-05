@@ -31,14 +31,21 @@
   - Call Orders
     - Stop-Loss
     - Liquidations
-    
-##### Other
-- Fees ![#E000FF](https://placehold.it/15/E000FF/000000?text=+)
-  - Fees Obtained ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
-- Transactions ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+  - Fees charged
+  
+##### Exhange Fees
+- Fees Rate ![#E000FF](https://placehold.it/15/E000FF/000000?text=+)
+- Fees pooled ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+
+#### Per Asset
+##### Exhange Fees
+- Fees pooled![#E000FF](https://placehold.it/15/E000FF/000000?text=+)
   - Fees Going Into Nominator 
   - Fees Going Into Denominator 
+##### Transactions ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   - Balancing Between Exchanges 
+
+##### Other
 - Leader board ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
 - Announcements ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 - Statistics ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
