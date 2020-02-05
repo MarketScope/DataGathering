@@ -7,15 +7,15 @@
 ## Market Data
 ### Per Exchange
 #### Per Trading Pair-
-- Price
+- *Price*
   - Open ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   -	High ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   -	Low ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   -	Spot ```Market Orders``` ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
 
-- Volume ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+- *Volume* ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 
-- Topology
+- *Topology*
   - Spread ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   - Limit Orders
     - Order Book ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
@@ -26,8 +26,8 @@
     - Shorts ![#FFAA00](https://placehold.it/15/FFAA00/000000?text=+) ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
 ##### Other
 - Fees
--- Into Nominator / Into Denominator
--- Transferred, Trend of Fee money flowing in and out of asset
+  - Into Nominator / Into Denominator
+  - Transferred, Trend of Fee money flowing in and out of asset
 - Leader board
 - Announcements
 - Statistics
@@ -36,42 +36,42 @@
 - Funding
 - Positions
 - Orders										```Placement, Cancellation, Amending```
--- Limit Orders			
--- Call Orders
---- Stop-Loss
---- Liquidations
+  - Limit Orders			
+  - Call Orders
+    - Stop-Loss
+    - Liquidations
 #### Global
 - Price
--- Market Cap
--- In existence
--- In Circulation
+  - Market Cap
+  - In existence
+  - In Circulation
 - Volume
--- Exchange to Exchange
--- User to Exchange
--- User to User
--- Transaction Fees
+  - Exchange to Exchange
+  - User to Exchange
+  - User to User
+  - Transaction Fees
 - Mining
--- Volume
--- Reward
--- Costs
+  - Volume
+  - Reward
+  - Costs
 
 ### Social Data
 #### Per Platform
 - Posts
--- Content Analyses
--- Reposts
--- Replies
--- Reactions
+  - Content Analyses
+  - Reposts
+  - Replies
+  - Reactions
 Fundamental Data
 - Business Model
 - Timeline
--- Prospects
--- Alterations
--- Interactions
--- Balance
+  - Prospects
+  - Alterations
+  - Interactions
+  - Balance
 - ! Book Value / Liquidation Price
 - ! Return On Assets
 - ! 
---- Assets
---- Costs
---- Incomes
+  - Assets
+  - Costs
+  - Incomes
