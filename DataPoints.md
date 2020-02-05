@@ -25,17 +25,17 @@
 ##### Other
 - Fees ![#E000FF](https://placehold.it/15/E000FF/000000?text=+)
   - Fees Obtained ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
-- Wallet Transfers
-  - Fees Going Into Nominator
-  - Fees Going Into Denominator
-  - Balancing Between Exchanges
-- Leader board
-- Announcements
-- Statistics
-- Chat                        
+- Wallet Transfers ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+  - Fees Going Into Nominator 
+  - Fees Going Into Denominator 
+  - Balancing Between Exchanges 
+- Leader board ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
+- Announcements ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+- Statistics ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
+- Chat ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
 ##### Personal / Account / Individual
 - Funding
-- Positions
+- Positions ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
 - Orders ```Placement, Cancellation, Amending```
   - Limit Orders			
   - Call Orders
