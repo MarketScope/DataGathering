@@ -12,13 +12,13 @@
 
 - Topology
   - Spread
-  - Limit Orders '''Order Book'''
+  - Limit Orders ```Order Book```
   - Call Orders
-    - Stop-Loss '''Missing'''
-    - Liquidations '''Often Missing'''
+    - Stop-Loss ```Missing```
+    - Liquidations ```Often Missing```
   - Exchange Position
-    - Longs '''Often Missing'''
-    - Shorts '''Often Missing'''# DataPoints
+    - Longs ```Often Missing```
+    - Shorts ```Often Missing```# DataPoints
 ## Market Data
 ### Per Exchange
 #### Per Trading Pair
@@ -37,8 +37,8 @@
 --- Stop-Loss ```Missing```
 --- Liquidations ```Often Missing```
 -- Exchange Position
---- Longs										```Often Missing
---- Shorts		    								```Often Missing
+--- Longs										```Often Missing```
+--- Shorts		    								```Often Missing```
 ##### Other
 - Fees
 -- Into Nominator / Into Denominator
@@ -50,7 +50,7 @@
 ##### Personal / Account / Individual
 - Funding
 - Positions
-- Orders										```Placement, Cancellation, Amending
+- Orders										```Placement, Cancellation, Amending```
 -- Limit Orders			
 -- Call Orders
 --- Stop-Loss
@@ -173,7 +173,7 @@ Fundamental Data
 ##### Personal / Account / Individual
 - Funding
 - Positions
-- Orders '''Placement, Cancellation, Amending'''
+- Orders ```Placement, Cancellation, Amending```
   - Limit Orders			
   - Call Orders
     - Stop-Loss 
