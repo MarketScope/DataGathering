@@ -1,25 +1,20 @@
-- ![#00FF9B](https://placehold.it/15/00FF9B/000000?text=+) `Live`
-- ![#FFEC00](https://placehold.it/15/FFEC00/000000?text=+) `Historic`
-- ![#FF7C00](https://placehold.it/15/FF7C00/000000?text=+) `Not Available`
-
 ```diff
-- text in red
-+ text in green
-! text in orange
++ Live
+! Historic
+- Not Available
 # text in gray
 ```
-
 # DataPoints
 ## Market Data
 ### Per Exchange
-#### Per Trading Pair
+#### Per Trading Pair-
 - Price
   - Open 
   -	High
   -	Low
   -	Spot ```Market Orders```
 
-- Volume
+! Volume
 
 - Topology
   - Spread
