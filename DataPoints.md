@@ -3,9 +3,9 @@
 ### Per Exchange
 #### Per Trading Pair
 - Price
--- Open 
---	High
---	Low
+  - Open 
+  -	High
+  -	Low
 --	Spot '''Market Orders'''
 
 - Volume
