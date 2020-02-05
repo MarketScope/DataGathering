@@ -56,23 +56,24 @@
 - Price
 - Volume
 - Topology
-  
 #### Per Asset
-- Price `Indexed`
+##### Price `Indexed`
   - Market Cap
   - In existence
   - In Circulation
-- Volume
+##### Volume
   - Total `In own Asset volume`
   - Distribution `over Denominators`
   - Fees Obtained
   - Transactions
     - Exchange to Exchange `Balancing`
     - User to Exchange `Positioning`
-    - Exchange to User `DePositioning and Loss or Gains`
+    - Exchange to User `DePositioning and user Loss and Gains in the difference`
     - User to User `Regular`
     - Fees
-- Mining
+##### Topology
+  
+##### Mining
   - Volume
   - Reward
   - Costs
