@@ -1,19 +1,19 @@
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Live| ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Historic| ![#FFAA00](https://placehold.it/15/FFAA00/000000?text=+) Often UnAvailable| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) UnAvailable
----|---|---|---
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Live| ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Historic| ![#FFAA00](https://placehold.it/15/FFAA00/000000?text=+) Often UnAvailable| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) UnAvailable | ![#E000FF](https://placehold.it/15/E000FF/000000?text=+) Invariable|
+---|---|---|---|---
 
 # DataPoints
 ## Market Data
 ### Per Exchange
 #### Per Trading Pair
-- **Price**
+##### Price
   - Open ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   -	High ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   -	Low ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   -	Spot ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) ```Market Orders``` 
 
-- **Volume** ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+##### Volume ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 
-- **Topology**
+##### Topology
   - Spread ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   - Limit Orders
     - Order Book ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
@@ -23,9 +23,12 @@
     - Longs ![#FFAA00](https://placehold.it/15/FFAA00/000000?text=+) ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
     - Shorts ![#FFAA00](https://placehold.it/15/FFAA00/000000?text=+) ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
 ##### Other
-- Fees
-  - Into Nominator / Into Denominator
-  - Transferred, Trend of Fee money flowing in and out of asset
+- Fees ![#E000FF](https://placehold.it/15/E000FF/000000?text=+)
+  - Fees Obtained ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+- Wallet Transfers
+  - Fees Going Into Nominator
+  - Fees Going Into Denominator
+  - Balancing Between Exchanges
 - Leader board
 - Announcements
 - Statistics
