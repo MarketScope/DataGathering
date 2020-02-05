@@ -11,7 +11,7 @@
   - Open ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   -	High ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   -	Low ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
-  -	Spot ```Market Orders``` ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
+  -	Spot ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) ```Market Orders``` 
 
 - **Volume** ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 
