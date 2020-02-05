@@ -1,5 +1,5 @@
 - ![#00FF9B](https://placehold.it/15/00FF9B/000000?text=+) `Live`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Historic`
+- ![#FFEC00](https://placehold.it/15/FFEC00/000000?text=+) `Historic`
 - ![#FF7C00](https://placehold.it/15/FF7C00/000000?text=+) `Not Available`
 
 ```diff
