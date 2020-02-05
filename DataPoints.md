@@ -22,10 +22,20 @@
   - Exchange Position
     - Longs ![#FFAA00](https://placehold.it/15/FFAA00/000000?text=+) ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
     - Shorts ![#FFAA00](https://placehold.it/15/FFAA00/000000?text=+) ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
+    
+##### Account
+- Funding ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+- Positions ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+- Orders ```Placement, Cancellation, Amending``` ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+  - Limit Orders			
+  - Call Orders
+    - Stop-Loss
+    - Liquidations
+    
 ##### Other
 - Fees ![#E000FF](https://placehold.it/15/E000FF/000000?text=+)
   - Fees Obtained ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
-- Wallet Transfers ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+- Transactions ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   - Fees Going Into Nominator 
   - Fees Going Into Denominator 
   - Balancing Between Exchanges 
@@ -33,24 +43,28 @@
 - Announcements ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 - Statistics ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
 - Chat ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
-##### Personal / Account / Individual
-- Funding
-- Positions ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
-- Orders ```Placement, Cancellation, Amending```
-  - Limit Orders			
-  - Call Orders
-    - Stop-Loss
-    - Liquidations
-#### Global
+
+### Global
+#### Per Trading Pair
 - Price
+- Volume
+- Topology
+  
+#### Per Asset
+- Price `Indexed`
   - Market Cap
   - In existence
   - In Circulation
 - Volume
-  - Exchange to Exchange
-  - User to Exchange
-  - User to User
-  - Transaction Fees
+  - Total `In own Asset volume`
+  - Distribution `over Denominators`
+  - Fees Obtained
+  - Transactions
+    - Exchange to Exchange `Balancing`
+    - User to Exchange `Positioning`
+    - Exchange to User `DePositioning and Loss or Gains`
+    - User to User `Regular`
+    - Fees
 - Mining
   - Volume
   - Reward
