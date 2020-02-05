@@ -1,9 +1,7 @@
-```diff
-+ Live
-! Historic
-- Not Available
-# text in gray
-```
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Live`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Historic`
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Not Available`
+
 # DataPoints
 ## Market Data
 ### Per Exchange
@@ -12,19 +10,20 @@
   - Open 
   -	High
   -	Low
-  -	Spot ```Market Orders```
+  -	Spot ```Market Orders``` ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
 
-! Volume
+- Volume
 
 - Topology
   - Spread
-  - Limit Orders ```Order Book```
+  - Limit Orders ```Order Book``` ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
   - Call Orders
     - Stop-Loss ```Missing```
-    - Liquidations ```Often Missing```
+    - Liquidations ```Often Missing``` ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
   - Exchange Position
-    - Longs ```Often Missing```
-    - Shorts ```Often Missing```# DataPoints
+    - Longs ```Often Missing``` ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
+    - Shorts ```Often Missing``` ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
+# DataPoints 
 ## Market Data
 ### Per Exchange
 #### Per Trading Pair
