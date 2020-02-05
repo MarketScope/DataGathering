@@ -6,16 +6,16 @@
 # DataPoints
 ## Market Data
 ### Per Exchange
-#### Per Trading Pair-
-- *Price*
+#### Per Trading Pair
+- **Price**
   - Open ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   -	High ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   -	Low ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   -	Spot ```Market Orders``` ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
 
-- *Volume* ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+- **Volume** ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 
-- *Topology*
+- **Topology**
   - Spread ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
   - Limit Orders
     - Order Book ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
@@ -35,7 +35,7 @@
 ##### Personal / Account / Individual
 - Funding
 - Positions
-- Orders										```Placement, Cancellation, Amending```
+- Orders ```Placement, Cancellation, Amending```
   - Limit Orders			
   - Call Orders
     - Stop-Loss
